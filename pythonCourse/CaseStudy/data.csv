@@ -1,0 +1,21 @@
+CustomerID,Name,AccountBalance,account_type
+101,John Doe,5000,Savings
+102,Jane Smith,3000,Savings
+103,Alice Johnson,7000,Savings
+104,Bob Brown,1500,Savings
+105,Emily Davis,2500,Savings
+106,Michael Wilson,8000,Savings
+107,Sarah Taylor,1200,Savings
+108,David Lee,4500,Savings
+109,Laura White,6000,Savings
+110,James Green,3500,Savings
+111,Olivia Harris,9000,Savings
+112,Daniel Clark,2000,Savings
+113,Sophia Lewis,7500,Savings
+114,Matthew Hall,300,Savings
+115,Isabella Young,4000,Savings
+116,William King,500,Savings
+117,Charlotte Wright,10000,Savings
+118,Lucas Scott,3200,Savings
+119,Mia Adams,2800,Savings
+120,Noah Baker,600,Savings
